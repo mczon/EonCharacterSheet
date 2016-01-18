@@ -1,2 +1,2 @@
-# Eon_Character_Sheet
+# EonCharacterSheet
 Character sheet for Eon v4
